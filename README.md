@@ -1,4 +1,3 @@
-
 # 🍔 Tudo Gorduroso!
 
 **Tudo Gorduroso** é um site feito com HTML, CSS e Bootstrap que reúne as melhores receitas clássicas, caseiras e (deliciosamente) calóricas do Brasil! De bolinho de chuva a pratos suculentos, este projeto é uma homenagem à boa e velha comida que conforta o estômago e o coração.
@@ -25,29 +24,14 @@
 
 ---
 
-## 🖼️ Printscreens
-
-Coloque seus prints nesta pasta:
-
-```
-📁 prints/
-├── home.png
-├── receita-bolinho.png
-└── contato.png
-```
-
-> Dica: Use ferramentas como o Snipping Tool (Windows) ou o atalho `Shift + ⌘ + 4` (Mac) para capturar as telas e salve na pasta `prints/`.
-
----
-
 ## 🗂️ Estrutura de Arquivos
 
 ```
 📦 tudo-gorduroso
 ├── index.html
-├── receitas.html
 ├── receita1.html
-├── contato.html
+├── receita2.html
+├── receita3.html
 ├── css/
 │   └── estilo.css
 ├── js/
@@ -55,8 +39,6 @@ Coloque seus prints nesta pasta:
 ├── imgs/
 │   ├── logo.png
 │   └── bolinhochuva.jpg
-├── prints/
-│   └── (adicione seus prints aqui)
 └── README.md
 ```
 
@@ -82,8 +64,6 @@ Sinta-se à vontade para:
 - Adicionar novas receitas
 - Melhorar o layout e design
 - Sugerir novas funcionalidades
-
-Basta abrir um *Pull Request* ou *Issue* no repositório!
 
 ---
 
