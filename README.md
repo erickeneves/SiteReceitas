@@ -13,6 +13,10 @@
 
 ---
 
+### Dê uma olhada!
+
+![Captura de tela 2025-04-29 105647](https://github.com/user-attachments/assets/cc333d86-9a1e-4589-bc03-802f91548303)
+
 ## 🔍 Funcionalidades
 
 - Página inicial com navegação responsiva
